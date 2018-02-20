@@ -1,0 +1,3 @@
+name: Gravity
+version: ${project.version}
+main: me.max.gravity.Gravity
